@@ -1,4 +1,14 @@
-## Oii, sou o Murilo! ✨
+### Oii, sou o Murilo Bezerra! Estudante de Informática para Internet ✨
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="muri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="muri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="muri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="muri-AE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
+   <img align="center" alt="muri-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+   <img align="center" alt="muri-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+   <img align="center" alt="muri-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</div>
 
 
 

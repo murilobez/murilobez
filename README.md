@@ -1,4 +1,4 @@
-### Oii, sou o Murilo Bezerra! Estudante de Informática para Internet ✨
+### Oii, sou o Murilo Bezerra! Tenho 16 anos :) ✨
 
 ##
 <div style="display: inline_block"><br>

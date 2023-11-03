@@ -22,9 +22,6 @@
   
 </div>
 
-<div>
-  <svg src="https://github.com/murilobez/murilobez/blob/output/github-contribution-grid-snake.svg"></svg>
-</div>
 
 
 
